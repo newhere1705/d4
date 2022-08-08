@@ -3,7 +3,7 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="user-yourname.index" url="https://raw.githubusercontent.com/newhere1705/d4/master/user-yourname.index" />
 		</update>
 	</info>
 	<files>
