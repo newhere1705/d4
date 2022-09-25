@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Weapons</name>
+		<update version="0.0.4">
+			<file name="homebrew-items-weapons.xml" url="https://raw.githubusercontent.com/newhere1705/d4/master/user-yourname/background-farmer.xml" />
+		</update>
+	</info>
+	
+	<!-- simple -->
+	<element name="Golden Dagger" type="Weapon" source="Homebrew" id="ID_WOTC_PHB_WEAPON_GOLDEN_DAGGER">
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_DAMAGE_TYPE_POISON, ID_INTERNAL_WEAPON_PROPERTY_FINESSE, ID_INTERNAL_WEAPON_PROPERTY_LIGHT, ID_INTERNAL_WEAPON_PROPERTY_THROWN</supports>
+		<description>
+			<p></p>
+		</description>
+		<setters>
+			<set name="category">Weapons</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="slot">onehand</set>
+			<set name="range">200/400</set>
+			<set name="damage" type="slashing", type="poison">1d4 + 1d8</set>
+			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER</set>
+		</setters>
+	</element>
+</elements>
