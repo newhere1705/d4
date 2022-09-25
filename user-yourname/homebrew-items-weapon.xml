@@ -19,7 +19,7 @@
 			<set name="weight" lb="1">1 lb.</set>
 			<set name="slot">onehand</set>
 			<set name="range">200/400</set>
-			<set name="damage" type="slashing">1d4 + 1d8</set>
+			<set name="damage" type="slashing, poison">1d4 + 1d8</set>
 			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER</set>
 		</setters>
 	</element>
