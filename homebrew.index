@@ -9,5 +9,6 @@
 	<files>
 		<file name="background-farmer.xml" url="https://raw.githubusercontent.com/newhere1705/d4/master/user-yourname/background-farmer.xml" />
 		<file name="homebrew-items-weapon.xml" url="https://raw.githubusercontent.com/newhere1705/d4/master/user-yourname/homebrew-items-weapon.xml" />
+		<file name="option-feat.xml" url="https://raw.githubusercontent.com/newhere1705/d4/master/user-yourname/option-feat.xml" />
 	</files>
 </index>
